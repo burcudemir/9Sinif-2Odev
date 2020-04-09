@@ -27,7 +27,7 @@ y=21,73x + 0,24
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
 **Cevap:**
-0,24N y olur. 
+0,24N y olur. Y'nin 0 olmamasının nedeni eğim formülğnde sabit değerin olması.
 
 
 
@@ -35,9 +35,11 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 # Bölüm 2
 3. [Bu Videoyu](https://www.youtube.com/watch?v=EbVeoJBjHTw) izleyin. Hangi öğrenci tipine benziyorsun? (Sizin yönünüze göre)
-**Cevap**: (Soldaki), (Ortadaki), (Sağdaki)
+**Cevap**: Soldaki
+
 4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken asla doğru üzerinde **işaretlediğimiz noktalar**  alınmaz. Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
-**Cevap**:
+**Cevap**: Ben 680 buldum videodaki değer ise 640 idi.
+
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
 |Kuvvet (N) | Uzanım (m)|

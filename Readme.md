@@ -26,6 +26,7 @@ b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8
 y=21,73x + 0,24
 
 
+
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
 **Cevap:**
 0,24N y olur. Y'nin 0 olmamasının nedeni eğim formülğnde sabit değerin olması. Kinetik enerjide cismi harekete geçirmek için önce statik sürtünme kuvvetini geçmemiz gerekir. Burada da aynı mantık vardır.
